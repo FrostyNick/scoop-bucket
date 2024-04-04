@@ -6,5 +6,5 @@
     "hash": "cf086a14699a3c2708450f153d33779023363fd5beadf95d2151f64bffa1b26b",
     "bin": "edgeremoval.ps1",
     "version": "2023.09.23",
-    "notes": "Disclaimer: Removing Microsoft Edge may break some system programs or break future Windows versions. With administrator privilages, type edgeremoval.ps1 to run.",
+    "notes": "Disclaimer: Removing Microsoft Edge may break some system programs or break future Windows versions. With administrator privilages, type edgeremoval.ps1 to run."
 }
